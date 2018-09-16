@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hello Packaging
+GenericName=Hello World App
+Comment=Proves that we can use Vala and Gtk
+Categories=Utility;Education;
+Exec=com.github.guibertvincent.hello-packaging
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;

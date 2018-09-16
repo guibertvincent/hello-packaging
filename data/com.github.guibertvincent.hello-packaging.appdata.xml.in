@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Vincent Guibert <vincentguibert@hotmail.fr> --> 
+<component type="desktop">
+    <id>com.github.guibertvincent.hello-packaging</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Hello Packaging</name>
+    <summary>Say Hello To The World!</summary>
+    <description>
+        <p>Says hello to the world.</p>
+    </description>
+    <custom>
+        <value key="x-appcenter-color-primary">#603461</value>
+        <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+        <value key="x-appcenter-suggested-price">5</value>
+    </custom>
+</component>

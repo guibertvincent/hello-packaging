@@ -1,0 +1,3 @@
+src/Application.vala
+data/com.github.guibertvincent.hello-packaging.desktop.in
+data/com.github.guibertvincent.hello-packaging.appdata.xml.in
